@@ -36,10 +36,10 @@ Leetcode/
 
 | Difficulty | Solved |
 |---|---|
-| Easy | 11 |
+| Easy | 13 |
 | Medium | 0 |
 | Hard | 0 |
-| **Total** | **11** |
+| **Total** | **13** |
 
 ## Problems
 
@@ -61,6 +61,10 @@ Leetcode/
 - [find-words-containing-character](./easy/strings/find-words-containing-character)
 - [reverse-string](./easy/strings/reverse-string)
 - [valid-palindrome](./easy/strings/valid-palindrome)
+
+**Math**
+- [isPalindrome](./easy/math/isPalindrome)
+- [roman-to-integer](./easy/math/roman-to-integer)
 
 ### Medium
 
